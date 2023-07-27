@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Project 1](#DIP1)
+- [Project 1](DIP1)
 - [Project 2](#DIP2)
 - [Project 3](#DIP3)
 
